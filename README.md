@@ -10,3 +10,4 @@ root_folder/ (AMSGITHUB)
         AMS-KiCAD-Packages3D
         AMS-KiCAD-Symbols
 
+![alt text](https://github.com/AMSMarcoRBosco/AMS-KiCAD-Footprints/blob/master/ams_path.png)
