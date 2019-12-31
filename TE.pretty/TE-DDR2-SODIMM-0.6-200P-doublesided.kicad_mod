@@ -1,4 +1,4 @@
-(module TE-DDR2-SODIMM-0.6-200P-doublesided (layer F.Cu) (tedit 5E0A1B1F)
+(module TE-DDR2-SODIMM-0.6-200P-doublesided (layer F.Cu) (tedit 5E0B115E)
   (fp_text reference REF** (at 1.2 0 90) (layer F.Fab)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
@@ -289,7 +289,7 @@
   (pad 198 smd rect (at 4.099999 31.05) (size 2 0.35) (layers F.Cu F.Paste))
   (pad 199 smd rect (at -4.1 31.35) (size 2 0.35) (layers F.Cu F.Paste))
   (pad 200 smd rect (at 4.099999 31.65) (size 2 0.35) (layers F.Cu F.Paste))
-  (model ${AMSGITHUB}/AMS-KiCAD-Packages3D/TE.3dshapes/c-1473149-1-k2-3d.stp
+  (model ${AMSGITHUB}/AMS-KiCAD-Packages3D/Raspberry_Pi_Foundation.3dshapres/Conn_1473149-4_Raspberry_Pi_Industrial_CM3+.stp
     (offset (xyz 3.6 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
