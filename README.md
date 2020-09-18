@@ -1,6 +1,6 @@
-# AMS-KiCAD-Footprints
+# UAMP-KiCAD-Footprints
 
-AMS KiCAD Footprints
+UAMP KiCAD Footprints
 
 It is important to configure path to the KiCAD root folder:
 
